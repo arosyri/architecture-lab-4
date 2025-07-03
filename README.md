@@ -1,3 +1,4 @@
+![CI](https://github.com/arosyri/architecture-lab-4/actions/workflows/ci.yml/badge.svg)
 # Горизонтальне масштабування програмних систем
 
 ## Опис
